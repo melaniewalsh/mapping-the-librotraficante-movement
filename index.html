@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>The Librotraficante Movement</title>
+      
+  <!-- Load Leaflet from a https CDN, not http. Look for updates at http://leafletjs.com/download.html -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.0-rc.2/dist/leaflet.css"/>
+  
+  <script src="https://unpkg.com/leaflet@1.0.0-rc.2/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/esri-leaflet@2.1.1/dist/esri-leaflet.js"> </script>
+  <!-- load jQuery  -->
+  <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
+  <!-- load Font-Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+  <!-- Load leaflet.extra-markers from local directory -->
+  <script src="markers/leaflet.extra-markers.min.js"></script>
+  <script src="youTube.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Lora|Open+Sans" rel="stylesheet">
+  <link rel="stylesheet" href="markers/leaflet.extra-markers.min.css">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="node_modules/intro.js/introjs.css">
+  <link href="chardinjs.css" rel="stylesheet">
+<script src="chardinjs.min.js"></script>
+</head>
+
+
+<body>
+
+  <div id="title" class="title-text">
+    <h1 data-intro="Scroll through to explore each stop on the 2012 Librotraficante caravan." data-position="left">Mapping the 2012 <br> Librotraficante Caravan</h1>
+      <div id="home" class="home-text" data-intro="The 'Home' button takes you back to this original view" data-position="bottom"><a href="/">Home</a></div><br>
+     <i class="fa fa-chevron-down"></i>
+  </div>
+  <div id="narration" data-intro="The markers on the map correspond to each chapter." data-position="left">
+    <div id="contents" data-intro="Click anywhere to continue!" data-position="left">
+  
+      <div id="space-at-the-top" class="space-at-the-top"></div>
+    </div>
+  </div>
+  
+  <div id="map"></div>
+
+
+  <script type="text/javascript" src="script.js"></script>
+
+  <script type="text/javascript" src="node_modules/intro.js/intro.js"></script>
+<script> $('body').chardinJs('start') </script>
+
+
+</body>
+
+
+</html>

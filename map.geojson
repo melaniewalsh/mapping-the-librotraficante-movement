@@ -1,0 +1,291 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "number": 1,
+        "date": "Monday March 12, 2012 ",
+        "chapter": "The Launch",
+        "place-name": "Houston, TX",
+        "isVideo": "True",
+        "video": "https://www.youtube.com/embed/l-n3tvPz5ak",
+        "": "",
+        "description": "The Librotraficante Movement set out on a 1,000-mile+ caravan from Houston to Tucson, protesting against a 2010 Arizona law that banned Mexican American Studies from K-12 Tucson classrooms, codified as Arizona Revised Statues (A.R.S.) §15–112. The movement particularly objected against the effective banning of more than 80 books by and about Latinx people, which were taught as part of the curriculum. “When we heard that Tucson Unified School District administrators not only prohibited Mexican American Studies, but then walked into classrooms, and in front of young Latino students, during class time, removed and boxed up books by our most beloved authors,\" said Tony Diaz, one of the founders of the movement, \"that was too much.\"",
+        "zoom": 10,
+        "alt": "",
+        "image": "",
+        "source-credit": "",
+        "source-link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4009701,
+          29.8031932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "number": 2,
+        "date": "Monday March 12, 2012 ",
+        "chapter": "Rally at the Alamo",
+        "place-name": "San Antonio, TX",
+        "isVideo": "True",
+        "video": "https://www.youtube.com/embed/PLE7YDaInXk?start=52",
+        "": "",
+        "description": "The Librotraficante Movement held many rallies and press conferences throughout the caravan, such as one that took place in front of the Alamo chapel. Many \"contraband\" authors—that is, authors whose works were effectively banned by A.R.S. §15–112—participated in the 2012 caravan, including Lorna Dee Cervantes, featured in this YouTube video, a highly influential Chicana literary figure also famous for her groundbreaking work in publishing, whose poetry was banned across five different anthologies. ",
+        "zoom": 17,
+        "alt": "",
+        "image": "",
+        "source-credit": "",
+        "source-link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4860762,
+          29.4257704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "number": 3,
+        "date": "Monday March 12, 2012 ",
+        "chapter": "First Underground Library",
+        "place-name": " San Antonio, TX",
+        "isVideo": "",
+        "video": "",
+        "": "",
+        "description": "The Librotraficante Movement also stocked and established a network of underground libraries that would circulate the 80 books effectively banned by the Arizona government. The inauguration of the first underground library at the San Antonio Southwest Workers Union took place on the first evening.",
+        "zoom": 15,
+        "alt": "",
+        "image": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/419984_10150617375897634_781984170_n.jpg?_nc_cat=105&_nc_ht=scontent-ort2-1.xx&oh=6348e72d2ac3406908e0e4afc0d11dda&oe=5D04C343",
+        "source-credit": "Source: Southwest Workers Union",
+        "source-link": "https://www.facebook.com/swunion/photos/a.10150617366492634/10150617375897634/?type=3&theater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4741765,
+          29.4204767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "number": 4,
+        "date": "Tuesday March 13, 2012",
+        "chapter": "\nLibrotraficante Banned Book Bash",
+        "place-name": "",
+        "isVideo": "True",
+        "video": "https://www.youtube.com/embed/vJWsHoAb57g?start=74",
+        "": "",
+        "description": "",
+        "zoom": 15,
+        "alt": "",
+        "image": "img/TrinityCollege.jpg",
+        "source-credit": "Source: Trinity College/edX",
+        "source-link": "https://www.edx.org/sites/default/files/trinity1.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5146426,
+          29.4182355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "number": 5,
+        "date": "Wednesday March 14, 2012",
+        "chapter": "Librotraficante Banned Book Bash",
+        "place-name": " El Paso, TX",
+        "isVideo": "True",
+        "video": "https://www.youtube.com/embed/EWSf60XCFWY?start=97",
+        "": "",
+        "description": "",
+        "zoom": 13,
+        "alt": "",
+        "image": "",
+        "source-credit": "",
+        "source-link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4660786,
+          31.7715568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "number": 6,
+        "date": "Thursday March 15, 2012",
+        "chapter": "\nBreakfast Press Conference ",
+        "place-name": "Las Cruces, NM",
+        "isVideo": "",
+        "video": "",
+        "": "",
+        "description": "Denise Chavez hosting breakfast at her bookstore, Casa Camino Real Book Store & Art Gallery.",
+        "zoom": 11,
+        "alt": "",
+        "image": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/542962_10150638958907634_720209383_n.jpg?_nc_cat=104&_nc_ht=scontent-ort2-1.xx&oh=60709fc79488cd9d00a27b29ccb25db4&oe=5D4C6AFE",
+        "source-credit": "Source: Southwest Workers Union",
+        "source-link": "https://www.facebook.com/swunion/photos/a.10150638948602634/10150638958907634/?type=3&theater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.773,
+          32.3089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "number": 7,
+        "date": "Thursday March 15, 2012",
+        "chapter": "\nA Visit to Rudolfo Anaya's Home ",
+        "place-name": "Albuquerque, NM",
+        "isVideo": "",
+        "video": "",
+        "": "",
+        "description": "",
+        "zoom": 12,
+        "alt": "",
+        "image": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/527159_10150638953547634_1098653524_n.jpg?_nc_cat=102&_nc_ht=scontent-ort2-1.xx&oh=0e47f99fbbaa89035a42824deb33d041&oe=5D1EE949",
+        "source-credit": "Source: Southwest Workers Union",
+        "source-link": "https://www.facebook.com/swunion/photos/a.10150638948602634/10150638953547634/?type=3&theater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.650422,
+          35.0843859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "number": 8,
+        "date": "Thursday March 15, 2012",
+        "chapter": "\nLibrotraficante Banned Book Bash",
+        "place-name": "Albuquerque, NM",
+        "isVideo": "",
+        "video": "",
+        "": "",
+        "description": "Crowds of hundreds gather at the Banned Book Bash.",
+        "zoom": 14,
+        "alt": "",
+        "image": "https://www.sampsoniaway.org/wp-content/uploads/2012/05/ABQ-Crowd-web.jpg",
+        "source-credit": "Source: Merritt Wuchina",
+        "source-link": "https://www.sampsoniaway.org/features/2012/05/21/book-smugglers-in-the-united-states/3/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.655629,
+          35.068577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "number": 9,
+        "date": "Friday March 16, 2012",
+        "chapter": "Underground Library",
+        "place-name": "Tucson, AZ",
+        "isVideo": "",
+        "video": "",
+        "": "",
+        "description": "",
+        "zoom": 13,
+        "alt": "",
+        "image": "https://www.texasobserver.org/wp-content/legacy/images/stories/librosarrive.jpg",
+        "source-credit": "Source: Belinda Acosta",
+        "source-link": "https://www.texasobserver.org/librotraficante/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9688724,
+          32.2030972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "number": 10,
+        "date": "Saturday March 17, 2012",
+        "chapter": "\nTeach-In",
+        "place-name": " Tucson, AZ",
+        "isVideo": "",
+        "video": "",
+        "": "",
+        "description": "",
+        "zoom": 12,
+        "alt": "",
+        "image": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/375741_10150638955347634_873726616_n.jpg?_nc_cat=103&_nc_ht=scontent-ort2-1.xx&oh=ec391625ca58bda3c0332f741367ca04&oe=5D0BBA0E",
+        "source-credit": "Source: Southwest Workers Union",
+        "source-link": "https://www.facebook.com/swunion/photos/a.10150638948602634/10150638955347634/?type=3&theater"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9690097,
+          32.2029872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "number": 11,
+        "date": "Saturday March 17, 2012",
+        "chapter": "\nLiterary Showcase",
+        "place-name": "Tucson, AZ",
+        "isVideo": "True",
+        "video": "https://www.youtube.com/embed/1lFKk1AuJF4?start=12",
+        "": "",
+        "description": "Dagoberto Gilb reads at the final literary showcase.",
+        "zoom": 14,
+        "alt": "",
+        "image": "",
+        "source-credit": "",
+        "source-link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9540918,
+          32.2311227
+        ]
+      }
+    }
+  ]
+}
