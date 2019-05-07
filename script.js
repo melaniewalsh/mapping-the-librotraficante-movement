@@ -69,10 +69,15 @@ function initMap() {
             class: 'chapter-header'
           });
           
-          var place = $('<p></p>', {
-            text: feature.properties['place-name']
+          var city = $('<p></p>', {
+            text: feature.properties['city'],
+            class: 'city'
           });
-
+          
+          var place = $('<p></p>', {
+            text: feature.properties['place'],
+            class: 'place'
+          });
 
           var image = $('<img>', {
             alt: feature.properties['alt'],
@@ -126,9 +131,9 @@ function initMap() {
           //  }
             //
             if (feature.properties['isVideo'] == 'True') {
-              container.append(number).append(chapter).append(place).append(date).append(tweet).append(video).append(description)
+              container.append(number).append(chapter).append(city).append(place).append(date).append(tweet).append(video).append(description)
               
-            } else  {  container.append(number).append(chapter).append(place).append(date).append(imgHolder).append(source).append(description)
+            } else  {  container.append(number).append(chapter).append(city).append(place).append(date).append(imgHolder).append(source).append(description)
               }      
                 
         //  container.append(number).append(chapter).append(date).append(video2).append(imgHolder).append(source).append(description);
