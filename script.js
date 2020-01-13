@@ -163,7 +163,7 @@ function initMap() {
 
           // Make markers clickable
           layer.on('click', function() {
-            $("div#contents").animate({scrollTop: areaTop + "px"});
+            $("div#contents").animate({scrollTop: areaTop + 50 + "px"});
           });
 
         })(layer, feature.properties);
@@ -174,7 +174,7 @@ function initMap() {
     $('#contents').append("<div class='space-at-the-bottom'><a href='#space-at-the-top'><i class='fa fa-chevron-up'></i></br>Top</a></div>");
     map.fitBounds(geojson.getBounds());
     geojson.addTo(map);
-    map.setZoom(map.getZoom() - 1);
+    map.setZoom(map.getZoom() - 0);
   });
 }
 
