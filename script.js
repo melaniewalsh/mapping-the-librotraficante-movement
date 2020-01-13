@@ -143,6 +143,10 @@ function initMap() {
 
           var i;
           var areaTop = -100;
+          if( /Android|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+          var areaTop = 0;
+          }
+          
           var areaBottom = 0;
 
           // Calculating total height of blocks above active

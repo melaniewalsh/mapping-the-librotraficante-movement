@@ -80,3 +80,8 @@
 
 .chardinjs-relative-position {
   position: relative; }
+  
+  media only screen and (max-device-width: 480px) {
+    ::-webkit-scrollbar {
+        display: none;
+    }

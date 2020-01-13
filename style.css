@@ -167,7 +167,7 @@ a {
 }
 
 .outFocus {
-    opacity: 0.3;
+    opacity: 0.6;
     background-color: #000000;
 }
 
@@ -175,29 +175,93 @@ a {
   ::-webkit-scrollbar {
       display: none;
   }
+
+body {
+      padding: 0px;
+      margin: 0px;
+      font-family: 'Lora', 'Times New Roman', serif;
+      overflow: hidden;
+      color: #ffffff;
+      font-size: 10px;
+  }
   #map {
     width: 100vw;
   }
   #title {
-    width: 80%;
-    left: 10%;
+    width: 45%;
     min-width: 0;
   }
+
   #narration {
-    width: 80%;
+    width: 45%;
     min-width: 0;
-    left: 10%;
     background: none;
-    opacity: 0.8;
+    opacity: 1;
+    font-size: 15px;
+    overflow: visible;
   }
   .description {
       padding: 0;
       padding-bottom: 10px;
-      font-size: 50px;
+      font-size: 15px;
   }
   .leaflet-control-container {
       display: none;
   }
+  .leaflet-container {
+      overflow: visible;
+  }
+  .title-text {
+
+  }
+  
+  .number {
+      text-align: left;
+      font-weight: bold;
+      font-size: 15px;
+      margin-top: -50px;
+      margin-bottom: -50px;
+      padding: 50px;
+  }
+
+  .source {
+      font-size: 15px;
+      margin: 20px;
+  }
+
+
+  .place {
+    
+      font-size: 15px;
+
+  }
+
+  .city {
+    
+      font-size: 15px;
+    
+  }
+  .date {
+    
+      font-size: 15px;
+    
+  }
+  .image-container {
+      
+      padding: 0px 20px 20px 10px;
+
+}
+  .inFocus {
+      opacity: 1;
+      background-color:	#000000;
+  }
+
+  .outFocus {
+      opacity: 1;
+      background-color: #000000;
+  }
+
+
 }
 
 
